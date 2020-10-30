@@ -12,3 +12,8 @@ O **30diasDeCSS** é um desafio que tem como objetivo por em prática habilidade
 🔔 Tecnologias utilizadas na formação dos desafios:
 * HTML5
 * CSS3
+
+
+# Desafio 01: Ícone de mídia social em camadas
+
+![Dia 01](icones.gif)
