@@ -2,7 +2,7 @@
 
 
 # 💻 Sobre o desafio:
-O **30diasDeCSS** é um desafio que tem como objetivo por em prática habilidades de codificação com a criação de mini projetos utilizando HTML5 e CSS3.
+O **30diasDeCSS** é um desafio que tem como objetivo colocar em prática habilidades de codificação com a criação de mini projetos utilizando HTML5 e CSS3.
 
 👾 Para participar:
 
