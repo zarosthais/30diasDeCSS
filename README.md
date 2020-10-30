@@ -16,4 +16,4 @@ O **30diasDeCSS** é um desafio que tem como objetivo por em prática habilidade
 
 # Desafio 01: Ícone de mídia social em camadas
 
-![Dia 01](icones.gif)
+![](https://media.giphy.com/media/5ljhaDCyJkoHEossdS/giphy.gif)
