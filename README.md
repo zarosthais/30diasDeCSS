@@ -24,7 +24,7 @@ O **30diasDeCSS** é um desafio que tem como objetivo colocar em prática habili
 
 
 # Desafio 03: [Mudança de cor de texto quando entra em outra div](https://github.com/zarosthais/30diasDeCSS/tree/main/Desafios/Desafio%2003)
-![Desafio03](https://j.gifs.com/Gv4MMy.gif)
+![Desafio03](https://j.gifs.com/k8Er7x.gif)
 
 # Desafio 04
 # Desafio 05
