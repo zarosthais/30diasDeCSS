@@ -17,9 +17,12 @@ O **30diasDeCSS** é um desafio que tem como objetivo colocar em prática habili
 
 # Desafio 01: [Ícone de mídia social em camadas](https://github.com/zarosthais/30diasDeCSS/tree/main/Desafios/Dia%201)
 
-![Desafio01](https://media.giphy.com/media/5ljhaDCyJkoHEossdS/giphy.gif)
+![Desafio01](https://j.gifs.com/Jy5yx9.gif)
 
-# Desafio 02
+# Desafio 02: [Loader animado](https://github.com/zarosthais/30diasDeCSS/tree/main/Desafios/Dia%202)
+![Desafio02](https://j.gifs.com/oVLVkN.gif)
+
+
 # Desafio 03
 # Desafio 04
 # Desafio 05
