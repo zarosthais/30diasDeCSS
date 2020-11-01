@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family: 'Vast Shadow', cursive;
+}
+
+body {
+    background: #f8a5c2;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn {
+    width: 300px;
+    height: 70px;
+    background: none;
+    border: 4px dashed;
+    color: #c44569;
+    font-weight: 700;
+    text-transform: uppercase;
+    cursor: pointer;
+    font-size: 20px;
+    position: relative;
+}
+
+.btn::before,
+.btn::after {
+    content: "";
+    position: absolute;
+    width: 14px;
+    height: 4px;
+    background: #f8a5c2;
+    transform: skewX(50deg);
+    transition: .6s linear;
+}
+
+.btn::before {
+    top: -4px;
+    left: 10%;
+}
+
+.btn::after {
+    bottom: -4px;
+    right: 10%;
+}
+
+.btn:hover::before {
+    left: 80%;
+}
+
+.btn:hover::after {
+    right: 80%;
+}
