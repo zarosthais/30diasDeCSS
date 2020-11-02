@@ -17,21 +17,26 @@ O **30diasDeCSS** é um desafio que tem como objetivo colocar em prática habili
 
 ### Desafio dia 01: Ícone de mídia social em camadas
 ![Desafio01](https://j.gifs.com/Jy5yx9.gif)
-[Código](https://github.com/zarosthais/30diasDeCSS/tree/main/Desafios/Desafio%2001)
+
+***[Código](https://github.com/zarosthais/30diasDeCSS/tree/main/Desafios/Desafio%2001)***
 
 ### Desafio dia 02: Loader animado
 ![Desafio02](https://j.gifs.com/oVLVkN.gif)
-[Código](https://github.com/zarosthais/30diasDeCSS/tree/main/Desafios/Desafio%2002)
+
+***[Código](https://github.com/zarosthais/30diasDeCSS/tree/main/Desafios/Desafio%2002)***
 
 ### Desafio dia 03: Mudança de cor de texto quando entra em outra div
 ![Desafio03](https://j.gifs.com/k8Er7x.gif)
-[Código](https://github.com/zarosthais/30diasDeCSS/tree/main/Desafios/Desafio%2003)
+
+***[Código](https://github.com/zarosthais/30diasDeCSS/tree/main/Desafios/Desafio%2003)***
 
 ### Desafio dia 04: Botão com efeito
 ![Desafio04](https://j.gifs.com/oVLyWY.gif)
-[Código](https://github.com/zarosthais/30diasDeCSS/tree/main/Desafios/Desafio%2004)
 
-### Desafio dia 05: [Efeito pulsar]()
+***[Código](https://github.com/zarosthais/30diasDeCSS/tree/main/Desafios/Desafio%2004)***
+
+### Desafio dia 05: Efeito pulsar
 ![Desafio05]()
+***[Código]()***
 
 ---
