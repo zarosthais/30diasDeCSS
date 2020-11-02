@@ -36,7 +36,8 @@ O **30diasDeCSS** é um desafio que tem como objetivo colocar em prática habili
 ***[Código](https://github.com/zarosthais/30diasDeCSS/tree/main/Desafios/Desafio%2004)***
 
 ### Desafio dia 05: Efeito pulsar
-![Desafio05]()
-***[Código]()***
+![Desafio05](https://j.gifs.com/XL4Yzm.gif)
+
+***[Código](https://github.com/zarosthais/30diasDeCSS/tree/main/Desafios/Desafio%2005)***
 
 ---
