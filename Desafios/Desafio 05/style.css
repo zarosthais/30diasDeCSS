@@ -1,0 +1,58 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.bg {
+    background-image: url("space.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.pulse {
+    width: 150px;
+    height: 150px;
+    background: rgba(142, 68, 173, 1.0);
+    border-radius: 50%;
+    color: #fff;
+    line-height: 150px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    animation: pulse 3s linear infinite;
+}
+
+.fa {
+    font-size: 4em!important;
+}
+
+@keyframes pulse {
+    0% {
+        box-shadow: 0 0 0 0 rgba(142, 68, 173, 1.0), 0 0 0 0 rgba(142, 68, 173, 1.0);
+        ;
+    }
+    40% {
+        box-shadow: 0 0 0 50px rgba(142, 68, 173, 0), 0 0 0 0 rgba(142, 68, 173, 1.0);
+        ;
+    }
+    80% {
+        box-shadow: 0 0 0 50px rgba(142, 68, 173, 0), 0 0 0 0 rgba(142, 68, 173, 0);
+        ;
+    }
+    100% {
+        box-shadow: 0 0 0 0 rgba(142, 68, 173, 0), 0 0 0 0 rgba(142, 68, 173, 0);
+        ;
+    }
+}
