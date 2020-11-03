@@ -43,6 +43,6 @@ O **30diasDeCSS** é um desafio que tem como objetivo colocar em prática habili
 ### Desafio dia 06: Efeito lightning text
 ![Desafio06](https://j.gifs.com/wVW221.gif)
 
-***[Código](https://github.com/zarosthais/30diasDeCSS/tree/main/Desafios/Desafio%2006)
+***[Código](https://github.com/zarosthais/30diasDeCSS/tree/main/Desafios/Desafio%2006)***
 
 ---
