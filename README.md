@@ -45,4 +45,9 @@ O **30diasDeCSS** é um desafio que tem como objetivo colocar em prática habili
 
 ***[Código](https://github.com/zarosthais/30diasDeCSS/tree/main/Desafios/Desafio%2006)***
 
+### Desafio dia 07: Preloader animado
+![Desafio07](https://j.gifs.com/L74B2v.gif)
+
+***[Código](https://github.com/zarosthais/30diasDeCSS/tree/main/Desafios/Desafio%2007)***
+
 ---
