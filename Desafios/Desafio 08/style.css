@@ -10,23 +10,21 @@ body {
     position: relative;
     width: 100px;
     height: 100px;
-    background-color: #B53471;
+    background-color: rgb(247, 72, 72);
     transform: rotate(45deg);
-    box-shadow: 30px 30px 100px rgba(0, 0, 0, 0.75);
     animation: pulsante 1.4s linear infinite;
 }
 
 .coracao:before {
     content: '';
     position: absolute;
-    top: ;
+    top: 0;
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: #B53471;
+    background-color: rgb(247, 72, 72);
     transform: translateY(-50%);
-    border-top-left-radius: 100px;
-    border-top-right-radius: 100px;
+    border-radius: 50%;
 }
 
 .coracao:after {
@@ -36,11 +34,9 @@ body {
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: #B53471;
+    background-color: rgb(247, 72, 72);
     transform: translateX(-50%);
     border-radius: 50%;
-    border-top-left-radius: 100px;
-    border-bottom-left-radius: 100px;
 }
 
 @keyframes pulsante {
