@@ -25,7 +25,8 @@ body {
     height: 100%;
     background-color: #B53471;
     transform: translateY(-50%);
-    border-radius: 50%;
+    border-top-left-radius: 100px;
+    border-top-right-radius: 100px;
 }
 
 .coracao:after {
@@ -38,6 +39,8 @@ body {
     background-color: #B53471;
     transform: translateX(-50%);
     border-radius: 50%;
+    border-top-left-radius: 100px;
+    border-bottom-left-radius: 100px;
 }
 
 @keyframes pulsante {
