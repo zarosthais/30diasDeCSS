@@ -50,4 +50,9 @@ O **30diasDeCSS** é um desafio que tem como objetivo colocar em prática habili
 
 ***[Código](https://github.com/zarosthais/30diasDeCSS/tree/main/Desafios/Desafio%2007)***
 
+### Desafio dia 08: Coração batendo
+![Desafio08](https://j.gifs.com/q7N5pp.gif)
+
+***[Código](https://github.com/zarosthais/30diasDeCSS/tree/main/Desafios/Desafio%2008)***
+
 ---
