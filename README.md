@@ -59,6 +59,6 @@ O **30diasDeCSS** é um desafio que tem como objetivo colocar em prática habili
 
 ![Desafio09](https://j.gifs.com/r8O67K.gif)
 
-***[Código](https://github.com/zarosthais/30diasDeCSS/tree/main/Desafios/Desafio%2009)
+***[Código](https://github.com/zarosthais/30diasDeCSS/tree/main/Desafios/Desafio%2009)***
 
 ---
