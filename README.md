@@ -55,4 +55,10 @@ O **30diasDeCSS** é um desafio que tem como objetivo colocar em prática habili
 
 ***[Código](https://github.com/zarosthais/30diasDeCSS/tree/main/Desafios/Desafio%2008)***
 
+### Desafio dia 09: Pêndulo de Newton
+
+![Desafio09](https://j.gifs.com/r8O67K.gif)
+
+***[Código](https://github.com/zarosthais/30diasDeCSS/tree/main/Desafios/Desafio%2009)
+
 ---
