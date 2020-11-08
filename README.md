@@ -63,7 +63,7 @@ O **30diasDeCSS** é um desafio que tem como objetivo colocar em prática habili
 
 ### Desafio dia 10: Animação texto alternando
 
-![Desafio10](https://j.gifs.com/VA6jVv.gif)
+![Desafio10](https://j.gifs.com/q7Nnk0.gif)
 
 ***[Código](https://github.com/zarosthais/30diasDeCSS/tree/main/Desafios/Desafio%2010)***
 
