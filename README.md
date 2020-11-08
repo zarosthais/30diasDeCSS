@@ -67,4 +67,10 @@ O **30diasDeCSS** é um desafio que tem como objetivo colocar em prática habili
 
 ***[Código](https://github.com/zarosthais/30diasDeCSS/tree/main/Desafios/Desafio%2010)***
 
+### Desafio dia 11: Botão com efeito hover
+
+![Desafio11](https://j.gifs.com/ZYjE1Q.gif)
+
+***[Código](https://github.com/zarosthais/30diasDeCSS/tree/main/Desafios/Desafio%2011)***
+
 ---
