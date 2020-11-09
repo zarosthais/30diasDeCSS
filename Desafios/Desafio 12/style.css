@@ -1,0 +1,52 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Handlee', cursive;
+}
+.fundo {
+    background-image: url("natal.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.texto {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 60px;
+    font-weight: 700;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: #dcdde1;
+    cursor: pointer;
+}
+.texto:hover {
+    text-shadow: 0 0 4px #fff;
+}
+.texto:before {
+    content: '#46diasparaonatal';
+    color: #f7b731;
+    position: absolute;
+    width: 0;
+    overflow: hidden;
+    transition: 0.8s;
+}
+.texto:hover:before {
+    width: 100%;
+}
+.fa {
+    transition-delay: 0.6s;
+}
+
+h1:hover .fa {
+    color: #ff3f34;
+}

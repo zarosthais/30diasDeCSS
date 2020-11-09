@@ -73,4 +73,10 @@ O **30diasDeCSS** é um desafio que tem como objetivo colocar em prática habili
 
 ***[Código](https://github.com/zarosthais/30diasDeCSS/tree/main/Desafios/Desafio%2011)***
 
+### Desafio dia 12: Efeito de preenchimento ao passar o mouse
+
+![Desafio12](https://j.gifs.com/q7N09y.gif)
+
+***[Código](https://github.com/zarosthais/30diasDeCSS/tree/main/Desafios/Desafio%2012)***
+
 ---
