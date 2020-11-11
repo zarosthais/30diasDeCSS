@@ -85,4 +85,10 @@ O **30diasDeCSS** é um desafio que tem como objetivo colocar em prática habili
 
 ***[Código](https://github.com/zarosthais/30diasDeCSS/tree/main/Desafios/Desafio%2013)***
 
+### Desafio dia 14: Fundo de texto animado
+
+![Desafio13](https://j.gifs.com/6XZ5lN.gif)
+
+***[Código](https://github.com/zarosthais/30diasDeCSS/tree/main/Desafios/Desafio%2014)***
+
 ---
