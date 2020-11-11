@@ -79,4 +79,10 @@ O **30diasDeCSS** é um desafio que tem como objetivo colocar em prática habili
 
 ***[Código](https://github.com/zarosthais/30diasDeCSS/tree/main/Desafios/Desafio%2012)***
 
+### Desafio dia 13: Loading com efeito
+
+![Desafio13](https://j.gifs.com/6XZQ0Q.gif)
+
+***[Código](https://github.com/zarosthais/30diasDeCSS/tree/main/Desafios/Desafio%2013)***
+
 ---
