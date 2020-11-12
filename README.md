@@ -93,7 +93,7 @@ O **30diasDeCSS** é um desafio que tem como objetivo colocar em prática habili
 
 ### Desafio dia 15: Texto flutuante
 
-![Desafio15](https://j.gifs.com/nxKv0W.gif)
+![Desafio15](https://j.gifs.com/NL4zmD.gif)
 
 ***[Código](https://github.com/zarosthais/30diasDeCSS/tree/main/Desafios/Desafio%2015)***
 
