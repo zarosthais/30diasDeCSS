@@ -101,6 +101,12 @@ O **30diasDeCSS** é um desafio que tem como objetivo colocar em prática habili
 
 ![Desafio16](https://j.gifs.com/mOJKp0.gif)
 
-***[Código](https://github.com/zarosthais/30diasDeCSS/tree/main/Desafios/Desafio%2016)
+***[Código](https://github.com/zarosthais/30diasDeCSS/tree/main/Desafios/Desafio%2016)***
+
+### Desafio dia 17: Loader animado
+
+![Desafio17]()
+
+***[Código](https://github.com/zarosthais/30diasDeCSS/tree/main/Desafios/Desafio%2017)***
 
 ---
