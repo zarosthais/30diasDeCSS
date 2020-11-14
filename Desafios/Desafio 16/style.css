@@ -1,0 +1,51 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.fundo {
+    background-image: url("nuvens.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.btn {
+	text-decoration: none;
+	color: #dfe6e9;
+	font-family: 'Nanum Gothic', sans-serif;
+	font-size: 40px;
+	border: 3px solid #dfe6e9;
+	padding: 40px 80px;
+	position: relative;
+	transition: all 1s;
+    overflow: hidden;
+    font-weight: bolder;
+    border-radius: 180px;
+    background-color: #74b9ff;
+    cursor: pointer;
+}
+.btn:before {
+	content: '16 dias concluídos ☑️';
+	color: #74b9ff;
+	background-color:#dfe6e9;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	position: absolute;
+	left: 0;
+	top: 0;
+	height: 100%;
+	width: 100%;
+	transform: translateY(-100%);
+	transition:all .5s;
+}
+.btn:hover:before {
+	transform: translateY(0);
+}
