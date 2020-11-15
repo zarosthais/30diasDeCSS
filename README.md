@@ -15,7 +15,9 @@ O **30diasDeCSS** é um desafio que tem como objetivo colocar em prática habili
 * CSS3
 
 ❗ **Youtube Referencias dos desafios**
-Online Tutorials - Creative Creations - DarkCode
+[Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog) - 
+[Creative Creations](https://www.youtube.com/channel/UCOKmVksbzoKJKmtu7rlEM1A) - 
+[DarkCode](https://www.youtube.com/channel/UCD3KVjbb7aq2OiOffuungzw)
 
 ✔️ Desafios Concluídos
 
