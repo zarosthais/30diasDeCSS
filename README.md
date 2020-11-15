@@ -105,7 +105,7 @@ O **30diasDeCSS** é um desafio que tem como objetivo colocar em prática habili
 
 ### Desafio dia 16: Loader animado
 
-![Desafio17]()
+![Desafio17](https://j.gifs.com/4QXgMn.gif)
 
 ***[Código](https://github.com/zarosthais/30diasDeCSS/tree/main/Desafios/Desafio%2017)***
 
