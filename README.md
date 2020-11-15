@@ -14,99 +14,129 @@ O **30diasDeCSS** é um desafio que tem como objetivo colocar em prática habili
 * HTML5
 * CSS3
 
+❗ **Youtube Referencias dos desafios**
+Online Tutorials - Creative Creations - DarkCode
 
-### Desafio dia 01: Ícone de mídia social em camadas
+✔️ Desafios Concluídos
+
+* [Dia 01 - Ícone de mídia social em camadas](#01)
+* [Dia 02 - Loader animado](#02)
+* [Dia 03 - Mudança de cor de texto quando entra em outra div](#03)
+* [Dia 04 - Botão com efeito](#04)
+* [Dia 05 - Efeito pulsar](#05)
+* [Dia 06 - Efeito lightning text](#06)
+* [Dia 07 - Preloader animado](#07)  
+* [Dia 08 - Coração batendo](#08)
+* [Dia 09 - Pendulo de Newton](#09)
+* [Dia 10 - Animação texto alternando](#10)
+* [Dia 11 - Botão com efeito hover](#11)
+* [Dia 12 - Efeito de preenchimento ao passar o mouse](#12)
+* [Dia 13 - Loading com efeito](#13)
+* [Dia 14 - Fundo de texto animado](#14)
+* [Dia 15 - Texto flutuante](#15)
+* [Dia 16 - Botão com efeito](#16)
+* [Dia 17 - Loader animado](#17)
+* [Dia 18 - Texto esfumaçado](#18)
+
+
+### Desafio dia 01: Ícone de mídia social em camadas <a name="01"></a>
 ![Desafio01](https://j.gifs.com/Jy5yx9.gif)
 
 ***[Código](https://github.com/zarosthais/30diasDeCSS/tree/main/Desafios/Desafio%2001)***
 
-### Desafio dia 02: Loader animado
+### Desafio dia 02: Loader animado <a name="02"></a>
 ![Desafio02](https://j.gifs.com/oVLVkN.gif)
 
 ***[Código](https://github.com/zarosthais/30diasDeCSS/tree/main/Desafios/Desafio%2002)***
 
-### Desafio dia 03: Mudança de cor de texto quando entra em outra div
+### Desafio dia 03: Mudança de cor de texto quando entra em outra div <a name="03"></a>
 ![Desafio03](https://j.gifs.com/k8Er7x.gif)
 
 ***[Código](https://github.com/zarosthais/30diasDeCSS/tree/main/Desafios/Desafio%2003)***
 
-### Desafio dia 04: Botão com efeito
+### Desafio dia 04: Botão com efeito <a name="04"></a>
 ![Desafio04](https://j.gifs.com/oVLyWY.gif)
 
 ***[Código](https://github.com/zarosthais/30diasDeCSS/tree/main/Desafios/Desafio%2004)***
 
-### Desafio dia 05: Efeito pulsar
+### Desafio dia 05: Efeito pulsar <a name="05"></a>
 ![Desafio05](https://j.gifs.com/XL4Yzm.gif)
 
 ***[Código](https://github.com/zarosthais/30diasDeCSS/tree/main/Desafios/Desafio%2005)***
 
-### Desafio dia 06: Efeito lightning text
+### Desafio dia 06: Efeito lightning text <a name="06"></a>
 ![Desafio06](https://j.gifs.com/wVW221.gif)
 
 ***[Código](https://github.com/zarosthais/30diasDeCSS/tree/main/Desafios/Desafio%2006)***
 
-### Desafio dia 07: Preloader animado
+### Desafio dia 07: Preloader animado <a name="07"></a>
 ![Desafio07](https://j.gifs.com/L74B2v.gif)
 
 ***[Código](https://github.com/zarosthais/30diasDeCSS/tree/main/Desafios/Desafio%2007)***
 
-### Desafio dia 08: Coração batendo
+### Desafio dia 08: Coração batendo <a name="08"></a>
 ![Desafio08](https://j.gifs.com/q7N5pp.gif)
 
 ***[Código](https://github.com/zarosthais/30diasDeCSS/tree/main/Desafios/Desafio%2008)***
 
-### Desafio dia 09: Pêndulo de Newton
+### Desafio dia 09: Pêndulo de Newton <a name="09"></a>
 
 ![Desafio09](https://j.gifs.com/r8O67K.gif)
 
 ***[Código](https://github.com/zarosthais/30diasDeCSS/tree/main/Desafios/Desafio%2009)***
 
-### Desafio dia 10: Animação texto alternando
+### Desafio dia 10: Animação texto alternando <a name="10"></a>
 
 ![Desafio10](https://j.gifs.com/q7Nnk0.gif)
 
 ***[Código](https://github.com/zarosthais/30diasDeCSS/tree/main/Desafios/Desafio%2010)***
 
-### Desafio dia 11: Botão com efeito hover
+### Desafio dia 11: Botão com efeito hover <a name="11"></a>
 
 ![Desafio11](https://j.gifs.com/ZYjE1Q.gif)
 
 ***[Código](https://github.com/zarosthais/30diasDeCSS/tree/main/Desafios/Desafio%2011)***
 
-### Desafio dia 12: Efeito de preenchimento ao passar o mouse
+### Desafio dia 12: Efeito de preenchimento ao passar o mouse <a name="12"></a>
 
 ![Desafio12](https://j.gifs.com/q7N09y.gif)
 
 ***[Código](https://github.com/zarosthais/30diasDeCSS/tree/main/Desafios/Desafio%2012)***
 
-### Desafio dia 13: Loading com efeito
+### Desafio dia 13: Loading com efeito <a name="12"></a>
 
 ![Desafio13](https://j.gifs.com/6XZQ0Q.gif)
 
 ***[Código](https://github.com/zarosthais/30diasDeCSS/tree/main/Desafios/Desafio%2013)***
 
-### Desafio dia 14: Fundo de texto animado
+### Desafio dia 14: Fundo de texto animado <a name="13"></a>
 
 ![Desafio14](https://j.gifs.com/6XZ5lN.gif)
 
 ***[Código](https://github.com/zarosthais/30diasDeCSS/tree/main/Desafios/Desafio%2014)***
 
-### Desafio dia 15: Texto flutuante
+### Desafio dia 15: Texto flutuante <a name="14"></a>
 
 ![Desafio15](https://j.gifs.com/NL4zmD.gif)
 
 ***[Código](https://github.com/zarosthais/30diasDeCSS/tree/main/Desafios/Desafio%2015)***
 
-### Desafio dia 16: Botão com efeito
+### Desafio dia 16: Botão com efeito <a name="15"></a>
 
 ![Desafio16](https://j.gifs.com/mOJKp0.gif)
 
 ***[Código](https://github.com/zarosthais/30diasDeCSS/tree/main/Desafios/Desafio%2016)***
 
-### Desafio dia 16: Loader animado
+### Desafio dia 17: Loader animado <a name="16"></a>
 
 ![Desafio17](https://j.gifs.com/4QXgMn.gif)
 
 ***[Código](https://github.com/zarosthais/30diasDeCSS/tree/main/Desafios/Desafio%2017)***
+
+### Desafio dia 18: Texto esfumaçado <a name="18"></a>
+
+![Desafio18]()
+
+***[Código](https://github.com/zarosthais/30diasDeCSS/tree/main/Desafios/Desafio%2018)***
 
 ---
