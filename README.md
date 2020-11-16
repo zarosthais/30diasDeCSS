@@ -4,23 +4,23 @@
 
 ---
 
-## Sobre o desafio:
+### Sobre o desafio:
 O **30diasDeCSS** é um desafio que tem como objetivo colocar em prática habilidades de codificação com a criação de mini projetos utilizando HTML5 e CSS3.
 
-👾 Para participar:
+## 👾 Para participar:
 * Acessar o link e seguir as instruções contidas nele: https://github.com/MilenaCarecho/30diasDeCSS/
 
-🔔 Tecnologias utilizadas na formação dos desafios:
+## 🔔 Tecnologias utilizadas na formação dos desafios:
 * HTML5
 * CSS3
 
-❗ **Youtube Referencias dos desafios**
+## ❗ Youtube Referencias dos desafios
 
 [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog) - 
 [Creative Creations](https://www.youtube.com/channel/UCOKmVksbzoKJKmtu7rlEM1A) - 
 [DarkCode](https://www.youtube.com/channel/UCD3KVjbb7aq2OiOffuungzw)
 
-✔️ Desafios Concluídos
+## ✔️ Desafios Concluídos
 
 * [Dia 01 - Ícone de mídia social em camadas](#01)
 * [Dia 02 - Loader animado](#02)
