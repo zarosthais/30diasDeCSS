@@ -137,7 +137,7 @@ O **30diasDeCSS** é um desafio que tem como objetivo colocar em prática habili
 
 ### Desafio dia 18: Texto esfumaçado <a name="18"></a>
 
-![Desafio18]()
+![Desafio18](https://j.gifs.com/K14K4J.gif)
 
 ***[Código](https://github.com/zarosthais/30diasDeCSS/tree/main/Desafios/Desafio%2018)***
 

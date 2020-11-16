@@ -1,0 +1,68 @@
+body {
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+    background-color: #4b6584;
+}
+ul {
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+ul li {
+    list-style: none;
+    color: #f7b731;
+    font-size: 6em;
+    font-weight: bold;
+    letter-spacing: 10px;
+    filter: blur(1px);
+}
+ul:hover li {
+    animation: fumaça 2s linear infinite;
+}
+@keyframes fumaça {
+    0% {
+        transform: rotate(0deg) translateY(0px);
+        opacity: 1;
+        filter: blur(1px);
+    }
+    100% {
+        transform: rotate(45deg) translateY(-200px);
+        opacity: 0;
+        filter: blur(20px);
+    }
+}
+ul li:nth-child(1) {
+    animation-delay: 0s;
+}
+ul li:nth-child(2) {
+    animation-delay: 0.4s;
+}
+ul li:nth-child(3) {
+    animation-delay: 0.8s;
+}
+ul li:nth-child(4) {
+    animation-delay: 1.2s;
+}
+ul li:nth-child(5) {
+    animation-delay: 1.6s;
+}
+ul li:nth-child(6) {
+    animation-delay: 1.8s;
+}
+ul li:nth-child(7) {
+    animation-delay: 2s;
+}
+ul li:nth-child(8) {
+    animation-delay: 2.2s;
+}
+ul li:nth-child(9) {
+    animation-delay: 2.4s;
+}
+ul li:nth-child(10) {
+    animation-delay: 2.6s;
+}
+ul li:nth-child(11) {
+    animation-delay: 2.8s;
+}
