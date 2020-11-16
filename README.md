@@ -40,6 +40,7 @@ O **30diasDeCSS** é um desafio que tem como objetivo colocar em prática habili
 * [Dia 16 - Botão com efeito](#16)
 * [Dia 17 - Loader animado](#17)
 * [Dia 18 - Texto esfumaçado](#18)
+* [Dia 19 - Efeito de animação: fundo de partículas](#19)
 
 
 ### Desafio dia 01: Ícone de mídia social em camadas <a name="01"></a>
@@ -141,5 +142,11 @@ O **30diasDeCSS** é um desafio que tem como objetivo colocar em prática habili
 ![Desafio18](https://j.gifs.com/K14K4J.gif)
 
 ***[Código](https://github.com/zarosthais/30diasDeCSS/tree/main/Desafios/Desafio%2018)***
+
+### Desafio dia 19: Efeito de animação: fundo de partículas <a name="19"></a>
+
+![Desafio19](https://j.gifs.com/71P6pB.gif)
+
+***[Código](https://github.com/zarosthais/30diasDeCSS/tree/main/Desafios/Desafio%2019)***
 
 ---

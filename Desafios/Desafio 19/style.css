@@ -1,0 +1,99 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    background: #000;
+    overflow: hidden;
+}
+.particula {
+    position: relative;
+    min-width: 750px;
+    height: 750px;
+    margin: -150px;
+    transform-origin: right;
+    animation: mudaCor 5s linear infinite;
+}
+.particula:nth-child(evem) {
+    transform-origin: left;
+}
+@keyframes mudaCor {
+    0% {
+        filter: hue-rotate(0deg);
+        transform: rotate(0deg)
+    }
+    100% {
+        filter: hue-rotate(360deg);
+        transform: rotate(360deg)
+    }
+}
+.particula span {
+    position: absolute;
+    top: calc(80px * var(--i));
+    left: calc(80px * var(--i));
+    bottom: calc(80px * var(--i));
+    right: calc(80px * var(--i));
+}
+.particula span:before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: -8px;
+    width: 15px;
+    height: 15px;
+    background: #f00;
+    border-radius: 50%;
+}
+.particula span:nth-child(3n + 1):before {
+    background: rgba(252, 66, 123,1.0);
+    box-shadow: 0 0 20px rgba(252, 66, 123,1.0),
+                0 0 40px rgba(252, 66, 123,1.0),
+                0 0 60px rgba(252, 66, 123,1.0),
+                0 0 80px rgba(252, 66, 123,1.0),
+                0 0 0 8px rgba(252, 66, 123,.1);
+}
+.particula span:nth-child(3n + 2):before {
+    background: rgba(142, 68, 173,1.0);
+    box-shadow: 0 0 20px rgba(142, 68, 173,1.0),
+                0 0 40px rgba(142, 68, 173,1.0),
+                0 0 60px rgba(142, 68, 173,1.0),
+                0 0 80px rgba(142, 68, 173,1.0),
+                0 0 0 8px rgba(142, 68, 173,.1);
+}
+.particula span:nth-child(3n + 3):before {
+    background: rgba(249, 127, 81,1.0);
+    box-shadow: 0 0 20px rgba(249, 127, 81,1.0),
+                0 0 40px rgba(249, 127, 81,1.0),
+                0 0 60px rgba(249, 127, 81,1.0),
+                0 0 80px rgba(249, 127, 81,1.0),
+                0 0 0 8px rgba(249, 127, 81,.1);
+}
+.particula span:nth-child(3n + 1) {
+    animation: efeito 10s alternate infinite;
+}
+.particula span:nth-child(3n + 2) {
+    animation: efeito-reverso 3s alternate infinite;
+}
+.particula span:nth-child(3n + 3) {
+    animation: efeito 8s alternate infinite;
+}
+@keyframes efeito {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
+@keyframes efeito-reverso {
+    0% {
+        transform: rotate(360deg);
+    }
+    100% {
+        transform: rotate(0deg);
+    }
+}
