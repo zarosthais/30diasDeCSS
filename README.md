@@ -4,7 +4,7 @@
 
 ---
 
-## Sobre o desafio:
+## 🔮 Sobre o desafio:
 O **30diasDeCSS** é um desafio que tem como objetivo colocar em prática habilidades de codificação com a criação de mini projetos utilizando HTML5 e CSS3.
 
 ## 👾 Para participar:
@@ -106,31 +106,31 @@ O **30diasDeCSS** é um desafio que tem como objetivo colocar em prática habili
 
 ***[Código](https://github.com/zarosthais/30diasDeCSS/tree/main/Desafios/Desafio%2012)***
 
-### Desafio dia 13: Loading com efeito <a name="12"></a>
+### Desafio dia 13: Loading com efeito <a name="13"></a>
 
 ![Desafio13](https://j.gifs.com/6XZQ0Q.gif)
 
 ***[Código](https://github.com/zarosthais/30diasDeCSS/tree/main/Desafios/Desafio%2013)***
 
-### Desafio dia 14: Fundo de texto animado <a name="13"></a>
+### Desafio dia 14: Fundo de texto animado <a name="14"></a>
 
 ![Desafio14](https://j.gifs.com/6XZ5lN.gif)
 
 ***[Código](https://github.com/zarosthais/30diasDeCSS/tree/main/Desafios/Desafio%2014)***
 
-### Desafio dia 15: Texto flutuante <a name="14"></a>
+### Desafio dia 15: Texto flutuante <a name="15"></a>
 
 ![Desafio15](https://j.gifs.com/NL4zmD.gif)
 
 ***[Código](https://github.com/zarosthais/30diasDeCSS/tree/main/Desafios/Desafio%2015)***
 
-### Desafio dia 16: Botão com efeito <a name="15"></a>
+### Desafio dia 16: Botão com efeito <a name="16"></a>
 
 ![Desafio16](https://j.gifs.com/mOJKp0.gif)
 
 ***[Código](https://github.com/zarosthais/30diasDeCSS/tree/main/Desafios/Desafio%2016)***
 
-### Desafio dia 17: Loader animado <a name="16"></a>
+### Desafio dia 17: Loader animado <a name="17"></a>
 
 ![Desafio17](https://j.gifs.com/4QXgMn.gif)
 
