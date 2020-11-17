@@ -25,7 +25,7 @@ O **30diasDeCSS** é um desafio que tem como objetivo colocar em prática habili
 * [Dia 01 - Ícone de mídia social em camadas](#01)
 * [Dia 02 - Loader animado](#02)
 * [Dia 03 - Mudança de cor de texto quando entra em outra div](#03)
-* [Dia 04 - Botão com efeito](#04)
+* [Dia 04 - Botão com efeito 1](#04)
 * [Dia 05 - Efeito pulsar](#05)
 * [Dia 06 - Efeito lightning text](#06)
 * [Dia 07 - Preloader animado](#07)  
@@ -37,10 +37,11 @@ O **30diasDeCSS** é um desafio que tem como objetivo colocar em prática habili
 * [Dia 13 - Loading com efeito](#13)
 * [Dia 14 - Fundo de texto animado](#14)
 * [Dia 15 - Texto flutuante](#15)
-* [Dia 16 - Botão com efeito](#16)
+* [Dia 16 - Botão com efeito 2](#16)
 * [Dia 17 - Loader animado](#17)
 * [Dia 18 - Texto esfumaçado](#18)
 * [Dia 19 - Efeito de animação: fundo de partículas](#19)
+* [Dia 20 - Botão com efeito 3](#20)
 
 
 ### Desafio dia 01: Ícone de mídia social em camadas <a name="01"></a>
@@ -148,5 +149,11 @@ O **30diasDeCSS** é um desafio que tem como objetivo colocar em prática habili
 ![Desafio19](https://j.gifs.com/71P6pB.gif)
 
 ***[Código](https://github.com/zarosthais/30diasDeCSS/tree/main/Desafios/Desafio%2019)***
+
+### Desafio dia 20: Botão com efeito <a name="20"></a>
+
+![Desafio20](https://j.gifs.com/XL8LKm.gif)
+
+***[Código](https://github.com/zarosthais/30diasDeCSS/tree/main/Desafios/Desafio%2020)***
 
 ---
