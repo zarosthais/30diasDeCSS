@@ -42,7 +42,7 @@ O **30diasDeCSS** é um desafio que tem como objetivo colocar em prática habili
 * [Dia 18 - Texto esfumaçado](#18)
 * [Dia 19 - Efeito de animação: fundo de partículas](#19)
 * [Dia 20 - Botão com efeito 3](#20)
-
+* [Dia 20 - Esferas quicando](#21)
 
 ### Desafio dia 01: Ícone de mídia social em camadas <a name="01"></a>
 ![Desafio01](https://j.gifs.com/Jy5yx9.gif)
@@ -155,5 +155,11 @@ O **30diasDeCSS** é um desafio que tem como objetivo colocar em prática habili
 ![Desafio20](https://j.gifs.com/XL8LKm.gif)
 
 ***[Código](https://github.com/zarosthais/30diasDeCSS/tree/main/Desafios/Desafio%2020)***
+
+### Desafio dia 21: Esferas quicando <a name="21"></a>
+
+![Desafio20](https://j.gifs.com/wVJrqw.gif)
+
+***[Código](https://github.com/zarosthais/30diasDeCSS/tree/main/Desafios/Desafio%2021)***
 
 ---
