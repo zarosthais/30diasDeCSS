@@ -45,6 +45,7 @@ O **30diasDeCSS** é um desafio que tem como objetivo colocar em prática habili
 * [Dia 21 - Esferas quicando](#21)
 * [Dia 22 - Icones com efeito](#22)
 * [Dia 23 - Botão com efeito hover](#23)
+* [Dia 24 - Preloader animado](#24)
 
 ### Desafio dia 01: Ícone de mídia social em camadas <a name="01"></a>
 ![Desafio01](https://j.gifs.com/Jy5yx9.gif)
@@ -175,5 +176,11 @@ O **30diasDeCSS** é um desafio que tem como objetivo colocar em prática habili
 ![Desafio23](https://j.gifs.com/1WJQNV.gif)
 
 ***[Código](https://github.com/zarosthais/30diasDeCSS/tree/main/Desafios/Desafio%2023)***
+
+### Desafio dia 24: Preloader animado <a name="24"></a>
+
+![Desafio24](https://j.gifs.com/mOvNw3.gif)
+
+***[Código](https://github.com/zarosthais/30diasDeCSS/tree/main/Desafios/Desafio%2024)***
 
 ---
