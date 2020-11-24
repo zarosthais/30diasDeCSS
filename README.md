@@ -47,6 +47,8 @@ O **30diasDeCSS** é um desafio que tem como objetivo colocar em prática habili
 * [Dia 23 - Botão com efeito hover](#23)
 * [Dia 24 - Preloader animado](#24)
 * [Dia 25 - Checkbox animado](#25)
+* [Dia 26 - Loading com efeito](#26)
+
 
 ### Desafio dia 01: Ícone de mídia social em camadas <a name="01"></a>
 ![Desafio01](https://j.gifs.com/Jy5yx9.gif)
@@ -189,5 +191,11 @@ O **30diasDeCSS** é um desafio que tem como objetivo colocar em prática habili
 ![Desafio25](https://j.gifs.com/yoLAEw.gif)
 
 ***[Código](https://github.com/zarosthais/30diasDeCSS/tree/main/Desafios/Desafio%2025)***
+
+### Desafio dia 26: Loading com efeito <a name="26"></a>
+
+![Desafio26](https://j.gifs.com/YW3BLW.gif)
+
+***[Código](https://github.com/zarosthais/30diasDeCSS/tree/main/Desafios/Desafio%2026)***
 
 ---
