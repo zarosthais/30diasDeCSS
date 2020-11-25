@@ -48,6 +48,7 @@ O **30diasDeCSS** é um desafio que tem como objetivo colocar em prática habili
 * [Dia 24 - Preloader animado](#24)
 * [Dia 25 - Checkbox animado](#25)
 * [Dia 26 - Loading com efeito](#26)
+* [Dia 27 - Efeito pulsar](#27)
 
 
 ### Desafio dia 01: Ícone de mídia social em camadas <a name="01"></a>
@@ -197,5 +198,11 @@ O **30diasDeCSS** é um desafio que tem como objetivo colocar em prática habili
 ![Desafio26](https://j.gifs.com/YW3BLW.gif)
 
 ***[Código](https://github.com/zarosthais/30diasDeCSS/tree/main/Desafios/Desafio%2026)***
+
+### Desafio dia 27: Efeito pulsar <a name="27"></a>
+
+![Desafio27](https://j.gifs.com/Gv3omJ.gif)
+
+***[Código](https://github.com/zarosthais/30diasDeCSS/tree/main/Desafios/Desafio%2027)***
 
 ---
