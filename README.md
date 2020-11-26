@@ -49,6 +49,7 @@ O **30diasDeCSS** é um desafio que tem como objetivo colocar em prática habili
 * [Dia 25 - Checkbox animado](#25)
 * [Dia 26 - Loading com efeito](#26)
 * [Dia 27 - Efeito pulsar](#27)
+* [Dia 28 - Cor do background mudando](#28)
 
 
 ### Desafio dia 01: Ícone de mídia social em camadas <a name="01"></a>
@@ -204,5 +205,11 @@ O **30diasDeCSS** é um desafio que tem como objetivo colocar em prática habili
 ![Desafio27](https://j.gifs.com/Gv3omJ.gif)
 
 ***[Código](https://github.com/zarosthais/30diasDeCSS/tree/main/Desafios/Desafio%2027)***
+
+### Desafio dia 28: Cor do background mudando <a name="28"></a>
+
+![Desafio27](https://j.gifs.com/OM3pkE.gif)
+
+***[Código](https://github.com/zarosthais/30diasDeCSS/tree/main/Desafios/Desafio%2028)***
 
 ---

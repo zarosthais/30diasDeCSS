@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    padding: 0;
+    animation: bgcor 15s infinite;
+}
+h1 {
+    margin: 0;
+    padding: 0;
+    font-family: 'Sansita Swashed', cursive;
+    font-size: 5em;
+    color: whitesmoke;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+@keyframes bgcor {
+    0% {
+        background-color: #3498db;
+    }
+    20% {
+        background-color: #e67e22;
+    }
+    40% {
+        background-color: #f1c40f;
+    }
+    60% {
+        background-color: #574b90;
+    }
+    80% {
+        background-color: #16a085;
+    }
+    100% {
+        background-color: #c44569;
+    }
+}
