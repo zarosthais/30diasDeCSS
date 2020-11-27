@@ -50,6 +50,7 @@ O **30diasDeCSS** é um desafio que tem como objetivo colocar em prática habili
 * [Dia 26 - Loading com efeito](#26)
 * [Dia 27 - Efeito pulsar](#27)
 * [Dia 28 - Cor do background mudando](#28)
+* [Dia 29 - Menu responsivo com Media Queries](#29)
 
 
 ### Desafio dia 01: Ícone de mídia social em camadas <a name="01"></a>
@@ -208,8 +209,14 @@ O **30diasDeCSS** é um desafio que tem como objetivo colocar em prática habili
 
 ### Desafio dia 28: Cor do background mudando <a name="28"></a>
 
-![Desafio27](https://j.gifs.com/OM3pkE.gif)
+![Desafio28](https://j.gifs.com/OM3pkE.gif)
 
 ***[Código](https://github.com/zarosthais/30diasDeCSS/tree/main/Desafios/Desafio%2028)***
+
+### Desafio dia 29: Menu responsivo com Media Queries <a name="29"></a>
+
+![Desafio29]()
+
+***[Código](https://github.com/zarosthais/30diasDeCSS/tree/main/Desafios/Desafio%2029)***
 
 ---
