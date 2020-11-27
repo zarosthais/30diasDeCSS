@@ -215,7 +215,7 @@ O **30diasDeCSS** é um desafio que tem como objetivo colocar em prática habili
 
 ### Desafio dia 29: Menu responsivo com Media Queries <a name="29"></a>
 
-![Desafio29]()
+![Desafio29](https://j.gifs.com/jZpmnB.gif)
 
 ***[Código](https://github.com/zarosthais/30diasDeCSS/tree/main/Desafios/Desafio%2029)***
 
