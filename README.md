@@ -220,7 +220,7 @@ O **30diasDeCSS** é um desafio que tem como objetivo colocar em prática habili
 
 ***[Código](https://github.com/zarosthais/30diasDeCSS/tree/main/Desafios/Desafio%2029)***
 
-### Desafio dia 30: Fogos de artificio <a name="29"></a>
+### Desafio dia 30: Fogos de artificio <a name="30"></a>
 
 ![Desafio29](https://j.gifs.com/oVxzgL.gif)
 
