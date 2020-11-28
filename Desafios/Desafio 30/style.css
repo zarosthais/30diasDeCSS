@@ -1,0 +1,128 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #000;
+}
+.firework {
+    position: absolute;
+}
+.explosao {
+    position: absolute;
+    left: -2px;
+    bottom: 0;
+    width: 4px;
+    height: 80px;
+    transform-origin: 50% 100%;
+    /* background-color: rgba(0, 0, 0, .2); */
+    overflow: hidden;
+}
+.explosao:nth-child(1) {
+    transform: rotate(0deg) translateY(-15px);
+}
+.explosao:nth-child(2) {
+    transform: rotate(30deg) translateY(-15px);
+}
+.explosao:nth-child(3) {
+    transform: rotate(60deg) translateY(-15px);
+}
+.explosao:nth-child(4) {
+    transform: rotate(90deg) translateY(-15px);
+}
+.explosao:nth-child(5) {
+    transform: rotate(120deg) translateY(-15px);
+}
+.explosao:nth-child(6) {
+    transform: rotate(150deg) translateY(-15px);
+}
+.explosao:nth-child(7) {
+    transform: rotate(180deg) translateY(-15px);
+}
+.explosao:nth-child(8) {
+    transform: rotate(210deg) translateY(-15px);
+}
+.explosao:nth-child(9) {
+    transform: rotate(240deg) translateY(-15px);
+}
+.explosao:nth-child(10) {
+    transform: rotate(270deg) translateY(-15px);
+}
+.explosao:nth-child(11) {
+    transform: rotate(300deg) translateY(-15px);
+}
+.explosao:nth-child(12) {
+    transform: rotate(330deg) translateY(-15px);
+}
+.explosao::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 100%;
+    height: 40px;
+}
+#firework1 {
+    left: 50%;
+    top: 50%;
+    transform: scale(1)
+}
+#firework1 .explosao::before {
+    animation: explosao 2s ease-in-out infinite;
+    background-color: #f5cf52;
+}
+#firework2 {
+    left: 40%;
+    top: 45%;
+    transform: scale(0.7)
+}
+#firework2 .explosao::before {
+    animation: explosao 2s 0.6s ease-in-out infinite;
+    background-color: #ef5777;
+}
+#firework3 {
+    left: 60%;
+    top: 65%;
+    transform: scale(1.0);
+}
+#firework3 .explosao::before {
+    animation: explosao 2s 0.4s ease-in-out infinite;
+    background-color: #3dc1d3;
+}
+#firework4 {
+    left: 30%;
+    top: 35%;
+    transform: scale(0.6);
+}
+#firework4 .explosao::before {
+    animation: explosao 2s 0.2s ease-in-out infinite;
+    background-color: #EE5A24;
+}
+#firework5 {
+    right: 30%;
+    top: 35%;
+    transform: scale(0.6);
+}
+#firework5 .explosao::before {
+    animation: explosao 2s 0.6s ease-in-out infinite;
+    background-color: #dcdde1;
+}
+#firework6 {
+    right: 40%;
+    top: 45%;
+    transform: scale(0.4);
+}
+#firework6 .explosao::before {
+    animation: explosao 2s 0.8s ease-in-out infinite;
+    background-color: #8854d0;
+}
+@keyframes explosao {
+    0% {
+        top: 100%;
+    }
+    33%, 100% {
+        top: -50%;
+    }
+}

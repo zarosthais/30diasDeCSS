@@ -51,6 +51,7 @@ O **30diasDeCSS** é um desafio que tem como objetivo colocar em prática habili
 * [Dia 27 - Efeito pulsar](#27)
 * [Dia 28 - Cor do background mudando](#28)
 * [Dia 29 - Menu responsivo com Media Queries](#29)
+* [Dia 30 - Fogos de artificio](#30)
 
 
 ### Desafio dia 01: Ícone de mídia social em camadas <a name="01"></a>
@@ -218,5 +219,11 @@ O **30diasDeCSS** é um desafio que tem como objetivo colocar em prática habili
 ![Desafio29](https://j.gifs.com/jZpmnB.gif)
 
 ***[Código](https://github.com/zarosthais/30diasDeCSS/tree/main/Desafios/Desafio%2029)***
+
+### Desafio dia 30: Fogos de artificio <a name="29"></a>
+
+![Desafio29](https://j.gifs.com/oVxzgL.gif)
+
+***[Código](https://github.com/zarosthais/30diasDeCSS/tree/main/Desafios/Desafio%2030)***
 
 ---
